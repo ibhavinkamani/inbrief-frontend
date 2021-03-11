@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://www.inbrief.dev/</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/signin</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/categories/hybrid-apps</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/categories/competitive-programming</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/categories/creativity</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/categories/data-science</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/categories/movies</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/categories/health-and-fitness</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/categories/gaming</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/categories/gadgets</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/categories/photography</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/categories/programming</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/categories/startups</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/categories/technology</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/categories/web-development</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/categories/productivity</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/profile/bhavinkamani</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/tags/ios</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/tags/android</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/auth/password/forgot</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/blogs/just-vim.</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/blogs/the-10-commandments-of-self-taught-machine-learning-engineers</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.inbrief.dev/blogs/system-design-basics%3A-load-balancer-101</loc>
+  <lastmod>2020-11-11T10:02:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

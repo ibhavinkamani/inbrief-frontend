@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /categories
+Allow: /tags
+Allow: /profile
+
+
+Sitemap: https://www.inbrief.dev/sitemap.xml
