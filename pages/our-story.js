@@ -48,7 +48,7 @@ const Index = ({ router }) => {
                 <Carousel autoPlay infiniteLoop>
                     <div>
                         <img src="/images/s1.jpg"/>
-                        <p className="legend">No Membership, as don't want you to stop exploring!</p>
+                        <p className="legend">No Membership, as we don't want you to stop exploring!</p>
                     </div>
                     <div>
                         <img src="/images/s2.jpg"/>

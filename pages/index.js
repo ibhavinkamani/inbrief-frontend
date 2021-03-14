@@ -25,6 +25,14 @@ const Blogs = ({ blogs, categories, totalBlogs, blogsLimit, blogSkip, router }) 
             <link rel="icon" type="image/png" sizes="16x16" href="/static/favicons/apple-touch-icon.png" />
             <link rel="manifest" href="/static/favicons/site.webmanifest" />
 
+            {/*mailchimp*/}
+            <script
+                dangerouslySetInnerHTML={{
+                    __html: `!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/31a978b1cd4f42c760a3d215f/9dad9e22fed780dbef0c866f2.js");`,
+                }}
+            />
+            {/*mailchimp*/}
+
             <meta property="og:title" content={`Latest blogs on all new technologies | ${APP_NAME}`} />
             <meta
                 property="og:description"
